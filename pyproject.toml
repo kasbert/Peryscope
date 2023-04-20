@@ -1,0 +1,18 @@
+[project]
+name = "Peryscope"
+version = "0.0.1"
+authors = [
+  { name="Jarkko Sonninen", email="kasper@iki.fi" },
+]
+description = "Perytech DSO USB Oscilloscope"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache License",
+    "Operating System :: Linux",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/kasbert/Peryscope"
+"Bug Tracker" = "https://github.com/kasbert/Peryscope/issues"
