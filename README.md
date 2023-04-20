@@ -1,5 +1,5 @@
 # Peryscope
-Perytech PC USB Oscilloscope. ![This one](https://www.perytech.com/USB-Oscilloscope.htm)
+Perytech PC USB Oscilloscope. [This one](https://www.perytech.com/USB-Oscilloscope.htm)
 
 This is still in a demo level.
 
